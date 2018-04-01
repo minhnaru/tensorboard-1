@@ -14,7 +14,7 @@ limitations under the License.
 ==============================================================================*/
 module tf.graph {
 
-
+// minh
 /** Delimiter used in node names to denote namespaces. */
 export const NAMESPACE_DELIM = '/';
 export const ROOT_NAME = '__root__';
